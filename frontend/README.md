@@ -67,7 +67,7 @@ frontend/
 ## Deployment
 Once you deploy your project, you can share the live site link here:
 
-- **Live Demo:** [Add your deployed site link here](https://your-deployment-url.com)
+- **Live Demo:**https://plpreact.netlify.app/
 
 ## Contributing
 Feel free to fork the repository, create issues, or submit pull requests for improvements or bug fixes.
