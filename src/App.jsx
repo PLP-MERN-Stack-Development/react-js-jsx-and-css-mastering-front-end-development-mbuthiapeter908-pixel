@@ -6,7 +6,7 @@ import ApiData from "./pages/ApiData";
 const Home = () => (
   <div className="text-center space-y-4">
     <h1 className="text-3xl font-bold text-blue-600 dark:text-blue-400">
-      Welcome to PLP Task Manager
+      Welcome to PLP Task Manager.
     </h1>
     <p className="text-gray-600 dark:text-gray-300">
       Manage your daily tasks, explore API data, and switch themes.
