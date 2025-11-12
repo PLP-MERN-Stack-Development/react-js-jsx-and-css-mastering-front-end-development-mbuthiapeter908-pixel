@@ -4,12 +4,11 @@ A modern, responsive React application that demonstrates component architecture,
 
 ## 🌐 Deployment
 
-**Live Demo:** [Add your deployment link here]()
+**Live Demo:** https://creative-jalebi-6bdf1f.netlify.app/
 
 ### Deployment Platforms:
-- **Vercel:** [Add your Vercel link here]()
+
 - **Netlify:** [Add your Netlify link here]()
-- **GitHub Pages:** [Add your GitHub Pages link here]()
 
 ---
 
@@ -235,34 +234,6 @@ npm run lint
 
 ---
 
-## 🚀 Deployment Guide
-
-### Deploy to **Vercel**
-1. Push code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Click "New Project" → Import your repository
-4. Vercel auto-detects Vite config
-5. Click Deploy
-
-### Deploy to **Netlify**
-1. Build locally: `npm run build`
-2. Go to [netlify.com](https://netlify.com)
-3. Drag & drop the `dist` folder
-4. Or connect your GitHub repo for auto-deployment
-
-### Deploy to **GitHub Pages**
-1. Update `vite.config.js`:
-   ```javascript
-   export default {
-     base: '/your-repo-name/',
-     // ... rest of config
-   }
-   ```
-2. Run: `npm run build`
-3. Push to GitHub, enable GitHub Pages in repo settings
-
----
-
 ## 🐛 Troubleshooting
 
 ### Dev server won't start
@@ -289,33 +260,10 @@ npm run dev
 
 ---
 
-## 📚 Learning Resources
-
-- [React Documentation](https://react.dev)
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-- [Vite Guide](https://vitejs.dev/guide/)
-- [React Router Docs](https://reactrouter.com)
-- [JSONPlaceholder API](https://jsonplaceholder.typicode.com)
-
----
-
-## 📄 Assignment Checklist
-
-- ✅ Project setup with Vite and Tailwind CSS
-- ✅ Component architecture (Button, Card, Navbar, Footer, Layout)
-- ✅ State management with hooks (useState, useEffect, useContext)
-- ✅ Custom hook (useLocalStorage)
-- ✅ Task Manager with CRUD operations
-- ✅ API integration with search and pagination
-- ✅ Responsive design
-- ✅ Theme switcher (light/dark mode)
-- ✅ Deployed to live URL
-
----
 
 ## 👨‍💻 Author
 
-**Your Name/GitHub Username**
+**peter mbuthia/mbuthiapeter908-pixel**
 
 ---
 
@@ -348,3 +296,4 @@ For issues or questions:
 
 **Last Updated:** November 2025  
 **Version:** 1.0.0
+
